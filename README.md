@@ -32,3 +32,5 @@ Once the lifecycle configuration is created, we can launch a new SageMaker noteb
 
 # Run the notebooks
 The notebook takes less than 10 minute to start, once it's online, we can click on `Open Jupyter` and direct to the notebooks.
+
+![jupyter](sagemaker/jupyter.png)
