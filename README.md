@@ -34,3 +34,6 @@ Once the lifecycle configuration is created, we can launch a new SageMaker noteb
 The notebook takes less than 10 minute to start, once it's online, we can click on `Open Jupyter` and direct to the notebooks.
 
 ![jupyter](sagemaker/jupyter.png)
+
+# Delete notebook instance
+You can stop and delete the SageMaker notebook instance to avoid bills for the running instance.
